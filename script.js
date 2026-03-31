@@ -35,7 +35,7 @@ function myMenuFunction(){
     strings : ["Machine Learning Developer","Mathematical Modeling Specialist","Web Designer","Data Analysis Expert"],
     loop : true,
     typeSpeed : 100,
-    backSpeed : 120,
+    backSpeed : 50,
     backDelay : 2000
   })
   
