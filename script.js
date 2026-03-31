@@ -36,14 +36,14 @@ function myMenuFunction(){
     loop : true,
     typeSpeed : 100,
     backSpeed : 50,
-    backDelay : 2000
+    backDelay : 200
   })
   
   /* ----- ## -- SCROLL REVEAL ANIMATION -- ## ----- */
   const sr = ScrollReveal({
         origin: 'top',
         distance: '80px',
-        duration: 2000,
+        duration: 200,
         reset: true
   })
   
